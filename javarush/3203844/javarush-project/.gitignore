@@ -1,0 +1,18 @@
+# Скомпилированные файлы
+*.class
+
+# Логи
+*.log
+
+# Папки IDE
+.idea/
+.vscode/
+
+# Maven / Gradle
+target/
+build/
+
+# ОС
+Thumbs.db
+.DS_Store
+
